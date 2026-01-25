@@ -1,7 +1,7 @@
 ## MythForge
 
 MythForge é um criador de personagens de RPG multi-sistema com um copiloto de IA opcional que ajuda jogadores a montar fichas, distribuir atributos e gerar histórias e traços de personalidade.
-O objetivo do MythForge é tornar a criação de personagens mais fácil, rápida e divertida — mantendo sempre o jogador no controle.
+O objetivo do MythForge é tornar a criação de personagens mais fácil, rápida e divertida, mantendo sempre o jogador no controle.
 
 ## Funcionalidades (Planejadas)
 
@@ -21,10 +21,10 @@ Interface web no futuro
 ## Filosofia do Projeto
 
 MythForge segue três princípios centrais:
-Jogador em primeiro lugar — A IA apenas sugere. O usuário sempre decide.
-Consciente do sistema — Cada sistema de RPG tem suas próprias regras e atributos.
-Expansível — Novos sistemas e comportamentos da IA podem ser adicionados facilmente.
---
+Jogador em primeiro lugar, A IA apenas sugere. O usuário sempre decide.
+Consciente do sistema . Cada sistema de RPG tem suas próprias regras e atributos.
+Expansível, Novos sistemas e comportamentos da IA podem ser adicionados facilmente.
+
 ## Roadmap
 
 Fase 1 — Núcleo da CLI
