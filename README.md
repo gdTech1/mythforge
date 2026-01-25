@@ -10,11 +10,17 @@ Suporte a múltiplos sistemas (D&D 5e, Call of Cthulhu e outros)
 ## Copiloto de IA opcional para:
 
 Sugestão de atributos
+
 Sugestão de classe e raça
+
 Geração de história de fundo
+
 Geração de traços de personalidade
+
 Histórico de personagens salvo localmente
-Interface em linha de comando (CLI) — primeira versão
+
+Interface em linha de comando (CLI) primeira versão
+
 Interface web no futuro
 
 
