@@ -43,6 +43,7 @@ Python 3.10+
 JSON (persistência de dados)
 Arquitetura modular
 
+---
 
 ### Começando (Em Breve)
 
@@ -55,9 +56,6 @@ Contribuições, ideias e feedbacks são bem-vindos!
 
 ### Licença
 A licença será adicionada em uma versão futura.
-
-### Autora
-Giovanna — Estudante de desenvolvimento focada em Python, desenvolvimento de sistemas e inteligência artificial.
 
 ### Status do Projeto
 
