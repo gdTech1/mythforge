@@ -17,7 +17,7 @@ Histórico de personagens salvo localmente
 Interface em linha de comando (CLI) — primeira versão
 Interface web no futuro
 
---
+
 ## Filosofia do Projeto
 
 MythForge segue três princípios centrais:
@@ -30,14 +30,14 @@ Expansível, Novos sistemas e comportamentos da IA podem ser adicionados facilme
 Fase 1 — Núcleo da CLI
 Fase 2 — Copiloto de IA (Baseado em Regras)
 Fase 3 — Evolução da IA
---
+
 ## Tecnologias
 
 Python 3.10+
 JSON (persistência de dados)
 Arquitetura modular
 
---
+
 ### Começando (Em Breve)
 
 As instruções serão adicionadas após a implementação da primeira versão da CLI.
@@ -52,7 +52,7 @@ A licença será adicionada em uma versão futura.
 
 ### Autora
 Giovanna — Estudante de desenvolvimento focada em Python, desenvolvimento de sistemas e inteligência artificial.
---
+
 ### Status do Projeto
 
 MythForge está em desenvolvimento inicial.
