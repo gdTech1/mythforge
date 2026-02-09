@@ -37,12 +37,6 @@ Fase 1 — Núcleo da CLI
 Fase 2 — Copiloto de IA (Baseado em Regras)
 Fase 3 — Evolução da IA
 
-## Tecnologias
-
-Python 3.10+
-JSON (persistência de dados)
-Arquitetura modular
-
 ---
 
 ### Começando (Em Breve)
