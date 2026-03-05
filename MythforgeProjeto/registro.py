@@ -1,4 +1,4 @@
-from Versao1.sistema_base import sistemaRPG
+from MythforgeProjeto.sistema_base import sistemaRPG
 
 #────────────────────────────────────────────────────
 # - Guarda todos os sistemas disponiveis

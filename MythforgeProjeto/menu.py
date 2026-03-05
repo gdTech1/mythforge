@@ -1,8 +1,8 @@
-from Versao1.registro import registroSistemas
-from Versao1.dnd5e import sistemaDnD5
-from Versao1.armazenamentoJs import armazenamentoJSON
-from Versao1.personagem import Personagem
-from Versao1.validacao import pedirInteiro
+from MythforgeProjeto.registro import registroSistemas
+from MythforgeProjeto.dnd5e import sistemaDnD5
+from MythforgeProjeto.armazenamentoJs import armazenamentoJSON
+from MythforgeProjeto.personagem import Personagem
+from MythforgeProjeto.validacao import pedirInteiro
 
 #────────────────────────────────────────────────────
 # - Registrando seu sistema

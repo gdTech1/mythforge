@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-from Versao1.personagem import Personagem
+from MythforgeProjeto.personagem import Personagem
 
 #────────────────────────────────────────────────────
 # - Responsável por salvar e carregar personagens.

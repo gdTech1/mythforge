@@ -1,4 +1,4 @@
-from Versao1.sistema_base import sistemaRPG 
+from MythforgeProjeto.sistema_base import sistemaRPG 
 
 # - Importei o sistema base para estruturar o sistema de D&D5
 

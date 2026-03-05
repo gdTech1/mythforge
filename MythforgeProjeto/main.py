@@ -1,4 +1,4 @@
-from Versao1.menu import menu_principal
+from MythforgeProjeto.menu import menu_principal
 
 def main():
     menu_principal()
