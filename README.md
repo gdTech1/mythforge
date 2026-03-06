@@ -31,12 +31,6 @@ Jogador em primeiro lugar, A IA apenas sugere. O usuário sempre decide.
 Consciente do sistema . Cada sistema de RPG tem suas próprias regras e atributos.
 Expansível, Novos sistemas e comportamentos da IA podem ser adicionados facilmente.
 
-## Roadmap
-
-Fase 1 — Núcleo da CLI
-Fase 2 — Copiloto de IA (Baseado em Regras)
-Fase 3 — Evolução da IA
-
 ---
 
 ### Começando (Em Breve)
